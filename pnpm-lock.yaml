@@ -8,7 +8,7 @@ importers:
 
   .: {}
 
-  apps/front:
+  src/front:
     dependencies:
       react:
         specifier: ^18.2.0
